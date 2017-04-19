@@ -1,7 +1,10 @@
-# test coverage for  [trash (v4.0.1)](https://github.com/sindresorhus/trash#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-trash.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-trash) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-trash.svg)](https://travis-ci.org/npmtest/node-npmtest-trash)
+# npmtest-trash
+
+#### test coverage for  [trash (v4.0.1)](https://github.com/sindresorhus/trash#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-trash.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-trash) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-trash.svg)](https://travis-ci.org/npmtest/node-npmtest-trash)
+
 #### Move files and folders to the trash
 
-[![NPM](https://nodei.co/npm/trash.png?downloads=true)](https://www.npmjs.com/package/trash)
+[![NPM](https://nodei.co/npm/trash.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/trash)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-trash/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-trash/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-trash/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-trash/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-trash/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-trash/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-trash/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-trash/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-trash/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-trash/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-trash%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-trash/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-trash/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-trash/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-trash/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-trash%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-trash/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-trash/build/test-report.html](https://npmtest.github.io/node-npmtest-trash/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-trash/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-trash/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-trash/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-trash/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-trash/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-trash/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-trash/build/screenCapture.npmPackageListing.svg)
 
@@ -28,7 +37,6 @@
 {
     "author": {
         "name": "Sindre Sorhus",
-        "email": "sindresorhus@gmail.com",
         "url": "sindresorhus.com"
     },
     "bugs": {
@@ -86,17 +94,14 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "sindresorhus",
-            "email": "sindresorhus@gmail.com"
+            "name": "sindresorhus"
         },
         {
-            "name": "kevva",
-            "email": "kevinmartensson@gmail.com"
+            "name": "kevva"
         }
     ],
     "name": "trash",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/sindresorhus/trash.git"
