@@ -1,6 +1,6 @@
 # npmtest-trash
 
-#### test coverage for  [trash (v4.0.1)](https://github.com/sindresorhus/trash#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-trash.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-trash) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-trash.svg)](https://travis-ci.org/npmtest/node-npmtest-trash)
+#### basic test coverage for  [trash (v4.0.1)](https://github.com/sindresorhus/trash#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-trash.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-trash) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-trash.svg)](https://travis-ci.org/npmtest/node-npmtest-trash)
 
 #### Move files and folders to the trash
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-trash/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-trash/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-trash/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-trash/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-trash/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-trash/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-trash/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-trash/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-trash/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-trash/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-trash/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-trash/build/coverage.html/index.html)
 
@@ -112,7 +112,8 @@
     "version": "4.0.1",
     "xo": {
         "esnext": true
-    }
+    },
+    "bin": {}
 }
 ```
 
